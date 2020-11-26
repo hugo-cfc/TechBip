@@ -1,0 +1,70 @@
+.form-div {
+    float: left;
+}
+
+.container h3 {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
+
+form label {
+    margin-top: 15px;
+    display: block;
+    color: #fff;
+}
+
+span {
+    display: block;
+    color: #FFF;
+    font-size: 14px;
+}
+
+#radio-container label {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.buttonForm {
+    background: linear-gradient(6.54deg, #293356 4.59%, #37467A 47.76%, #506CCF 94.36%);
+    width: 85px;
+    height: 30px;
+    border-radius: 10px;
+    color: #FFF;
+    font-family: 14px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: -10px;
+    width: 100%;
+}
+
+.buttonForm:hover {
+    opacity: 0.7;
+}
+
+.div-desc {
+    width: 75%;
+    font-size: 13px;
+    margin-left: 200px;
+    border-left: 1px solid #fff;
+    padding-left: 10px;
+    color: #FFF;
+}
+
+a {
+    background: linear-gradient(6.54deg, #293356 4.59%, #37467A 47.76%, #506CCF 94.36%);
+    width: 500px;
+    height: 30px;
+    border-radius: 10px;
+    color: #FFF;
+    font-family: 14px;
+    border: none;
+    cursor: pointer;
+    margin-top: 40px;
+}
+
+.button-calc {
+  margin-top: 8px;
+  margin-left: 5px;
+  width: 40%;
+}
