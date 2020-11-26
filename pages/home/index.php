@@ -25,7 +25,7 @@
     <div class="container">
         <h3>Agende sua vistoria!</h3>
         <div class="form-div">
-            <form action="../../server/conexao.php" method="post">
+            <form action="../sucess/index.php" method="post">
                 <label for="name" name="name" >Nome:</label>
                 <input type="text" name="name" id="name" placeholder="Digita nome">
                 <label for="cpf" >CPF:</label>

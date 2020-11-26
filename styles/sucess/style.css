@@ -1,0 +1,35 @@
+h1 {
+  color: #FFF;
+  text-align: center;
+}
+
+
+
+.buttonForm {
+  background: linear-gradient(6.54deg, #293356 4.59%, #37467A 47.76%, #506CCF 94.36%);
+  width: 85px;
+  height: 30px;
+  border-radius: 10px;
+  color: #FFF;
+  font-family: 14px;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-bottom: -10px;
+  width: 45%;
+  height: 50px;
+}
+
+.buttonForm:hover {
+  opacity: 0.7;
+}
+
+.buttonForm1 {
+  margin-right: 30px;
+}
+
+.container-buttons {
+  width: 80%;
+  margin: 0 auto;
+}
+
